@@ -1,0 +1,11 @@
+{
+    "ts-node": {
+        "compilerOptions": {
+            "module": "commonjs"
+        }
+    },
+    "compilerOptions": {
+        "module": "NodeNext",
+        "target": "ES2015"
+    }
+}
